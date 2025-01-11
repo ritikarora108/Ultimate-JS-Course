@@ -16,3 +16,5 @@ stop_button.addEventListener('click', () => {
     console.log("Timer Stopped");
 })
 
+// setTimeout(function,ms)
+
