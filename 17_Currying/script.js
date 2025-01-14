@@ -1,3 +1,8 @@
+// Currying : mostly used in higher order functions and functional programming
+// use of closures
+// until all arguments are received, the base function won't execute
+
+
 // What if you only want to execute the function once all the arguments are available ? => Apply concept of Currying
 
 // function add(a, b, c) {
